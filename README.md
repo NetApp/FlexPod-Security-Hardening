@@ -1,4 +1,4 @@
-### FlexPod Converged Infrastructure setup using Ansible for FlexPod Datacenter with Cisco UCS IMM, VMware vSphere 7.0, and NetApp ONTAP storage with ONTAP security hardening best practices
+### Automated Setup using Ansible for FlexPod Datacenter with Cisco UCS IMM, VMware vSphere 7.0, and NetApp ONTAP storage with ONTAP security hardening best practices
 
 Note that the scripts in this repository have now been successfully tested with NetApp ONTAP 9.13.1, NetApp ONTAP 9.14.1, and VMware vSphere 7.0 Update 3.
 
