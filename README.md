@@ -62,3 +62,8 @@ The Ansible playbooks and CVD are structured in a way that a Fibre Channel Boot,
 
 ![block-diagram](https://github.com/NetApp/FlexPod-Security-Hardening/blob/main/ReadmePics/NexusSAN-Topology.jpg)
 
+### Authors
+
+ * Kamini Singh (kamini.singh@netapp.com)
+ * Kavyashree Mahadevaiah (kavyashm@netapp.com)
+   
